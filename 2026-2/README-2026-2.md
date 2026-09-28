@@ -20,9 +20,9 @@
 | Nome do Aluno | GitHub / Perfil |
 | :--- | :--- |
 | Lucas Augusto Vieira Tridapali | [@LucasTridapali](https://github.com/LucasTridapali) |
-| Nome Aluno 2 | [@usuario2](https://github.com/usuario2) |
-| Nome Aluno 3 | [@usuario3](https://github.com/usuario3) |
-| Nome Aluno 4 | [@usuario4](https://github.com/usuario4) |
+| Eduardo Matias | [@edumatias1224](https://github.com/edumatias1224) |
+| Neandro Bueno Vieira | [@NeandroBueno](https://github.com/NeandroBueno) |
+| Anderson Clayton Assis | [@AndersonClaytonAssis](https://github.com/AndersonClaytonAssis) |
 ---
 
 ## 📌 Visão Geral do Projeto
